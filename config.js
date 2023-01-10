@@ -22,10 +22,10 @@ global.autorecording = false //status auto merekam ( auto record )
 global.autoketik = false //status auto mengetik (auto typing)
 global.available = false //status online (online)
 // Other
-global.owner = ['923470027813','60177426853','60177426853','60177426853']
-global.premium = ['923470027813']
+global.owner = ['923080613785','60177426853','60177426853','60177426853']
+global.premium = ['923080613785']
 global.packname = 'x_ikratos_x'
-global.author = 'Ahmad Ali'
+global.author = 'Dvil King'
 global.wlcm = []
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
